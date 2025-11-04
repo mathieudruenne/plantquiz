@@ -35,7 +35,9 @@
         {
           "id": "S7_interactions_pm",
           "label": "Interactions plantes–microorganismes 🏗️ TRES BIENTOT",
-          "questions": [
+          "questions": [{"id":"S7_interactions_pm_","prompt":"Quelle est le pourcentage de perte de récolte au niveau mondial causé par les Pathogènes et ravageurs ?","choices":[{"id":"a","text":"25 %","correct":true},{"id":"b","text":"40 %"},{"id":"c","text":"55 %"},{"id":"d","text":"60 %"}],"explanation":"Les pathogènes et ravageurs détruisent environ un quart de la production agricole mondiale, ce qui représente près de 25 % des récoltes perdues chaque année."},
+{"id":"S7_interactions_pm_","prompt":"Le mildiou (Phytophthora) sur la pomme de terre a entrainé plus d’un million de morts dans les années 1840.","choices":[{"id":"a","text":"Vrai","correct":true},{"id":"b","text":"Faux"}],"explanation":"Le mildiou de la pomme de terre a provoqué la grande famine en Irlande dans les années 1840, entraînant la mort de plus d’un million de personnes."},
+{"id":"S7_interactions_pm_","prompt":"Quand est ce qu’on retrouve une réponse hypersensible sur une plante ?","choices":[{"id":"a","text":"Lorsque la plante est résistante au pathogène","correct":true},{"id":"b","text":"Lorsque la Bactérie est avirulante","correct":true},{"id":"c","text":"Lorsque la plante est sensible et le pathogène virulent"}],"explanation":"La réponse hypersensible apparaît lorsque la plante est résistante et que le pathogène est avirulent, entraînant une mort cellulaire localisée pour bloquer l’infection."},
           ]
         },
         {
